@@ -1,0 +1,56 @@
+{
+    "name": "PlayHaven Reporting",
+    "description": "FanBread is a one-stop shop for influencers to build their own branded mobile websites with all the best money-making tools built in.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1659-playhaven-reporting.jpg",
+    "tags": [
+        "games",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/playhaven-reporting\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PlayHaven Reporting",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1659-playhaven-reporting.jpg",
+            "humanURL": "http:\/\/www.playhaven.com\/sdk",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/playhaven-reporting-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.playhaven.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.playhaven.com\/feed\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/playhaven"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/playhaven"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/playhaven"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.playhaven.com\/sdk"
+        }
+    ]
+}
